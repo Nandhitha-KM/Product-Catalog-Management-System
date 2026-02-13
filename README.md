@@ -29,7 +29,9 @@ This is a simple **Java-based web application** for managing products. It allows
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/44d16d34-6d8d-48e0-b1dd-4642009a826c" />
 
+
 **Output:**
+
 
 <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/655fbe76-5338-431d-afb2-46f421d336ae" />
 <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/99df11e8-2375-46e0-a844-e21a26b94151" />
