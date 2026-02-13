@@ -31,12 +31,12 @@ This is a simple **Java-based web application** for managing products. It allows
 
 **Output:**
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/655fbe76-5338-431d-afb2-46f421d336ae" />
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/99df11e8-2375-46e0-a844-e21a26b94151" />
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/1598ff83-82b7-437f-8303-5e5ad47863fa" />
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/8ab4572c-143a-4c92-b201-5075a60364a3" />
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/66012de6-10c0-4998-9b31-9f4c62fe2564" />
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/a7eb6702-c9d5-436d-82c3-5e933ff2cbdd" />
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/655fbe76-5338-431d-afb2-46f421d336ae" />
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/99df11e8-2375-46e0-a844-e21a26b94151" />
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/1598ff83-82b7-437f-8303-5e5ad47863fa" />
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/8ab4572c-143a-4c92-b201-5075a60364a3" />
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/66012de6-10c0-4998-9b31-9f4c62fe2564" />
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/a7eb6702-c9d5-436d-82c3-5e933ff2cbdd" />
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/21312bb8-7612-47af-8f8f-85f794e4da35" />
 
 
